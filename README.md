@@ -6,8 +6,8 @@ I really like learning new things like learn about programming language (Python)
 
 Skills: Microsoft Office / Canva / IBM SPSS / Python
 
-- 🔭 I’m currently working on Ruang Tumbuh (ruangtumbuh.id/) 
-- 🌱 I’m currently learning on Yayasan Anak Bangsa Bisa (anakbangsabisa.org/) 
+- 🔭 I’m currently working on Ruang Tumbuh (https://ruangtumbuh.id/) 
+- 🌱 I’m currently learning on Yayasan Anak Bangsa Bisa (https://www.anakbangsabisa.org/) 
 - 💬 Ask me about anything. 
 - 📫 How to reach me: Instagram / LinkedIn / Facebook 
 - ⚡ Fun fact: I was born in 1999 but my birth certificate says I was born in 2000. 
