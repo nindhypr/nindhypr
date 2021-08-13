@@ -1,13 +1,13 @@
 ### Hi there 👋, get to know more about me here.
-#### Sales Operation Intern
-![Sales Operation Intern](https://media-exp1.licdn.com/dms/image/C5616AQHYIw5HMuw--A/profile-displaybackgroundimage-shrink_200_800/0/1628348680195?e=1633564800&v=beta&t=Xin-UuXvqt5798f4RSEGMOWw0C9GcU44B74djMURa7c)
+#### Fresh Graduate
+![Fresh Graduate](https://media-exp1.licdn.com/dms/image/C5616AQHYIw5HMuw--A/profile-displaybackgroundimage-shrink_200_800/0/1628348680195?e=1633564800&v=beta&t=Xin-UuXvqt5798f4RSEGMOWw0C9GcU44B74djMURa7c)
 
 I really like learning new things like learn about programming language (Python) and taking online courses to fill my spare time.
 
 Skills: Microsoft Office / Canva / IBM SPSS / Python
 
-- 🔭 I’m currently working on Ruang Tumbuh (https://ruangtumbuh.id/) 
-- 🌱 I’m currently learning on Yayasan Anak Bangsa Bisa (https://www.anakbangsabisa.org/) 
+- 🔭 I’m currently working on Kiddo.id as Sales Operation Intern (https://m.kiddo.id/) & Ruang Tumbuh as Clinic Administrator Intern (https://ruangtumbuh.id/) 
+- 🌱 I’m currently learning on Yayasan Anak Bangsa Bisa - Gojek as Data Analyst Student (https://www.anakbangsabisa.org/) 
 - 💬 Ask me about anything. 
 - 📫 How to reach me: Instagram / LinkedIn / Facebook 
 - ⚡ Fun fact: I was born in 1999 but my birth certificate says I was born in 2000. 
