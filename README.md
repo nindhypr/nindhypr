@@ -7,7 +7,7 @@ I really like learning new things like learn about programming language (Python)
 Skills: Microsoft Office / Canva / IBM SPSS / Python
 
 - 🔭 I’m currently working on Kiddo.id as Sales Operation Intern (https://m.kiddo.id/) & Ruang Tumbuh as Clinic Administrator Intern (https://ruangtumbuh.id/) 
-- 🌱 I’m currently learning on Yayasan Anak Bangsa Bisa - Gojek as Data Analyst Student (https://www.anakbangsabisa.org/) 
+- 🌱 I was learning on Yayasan Anak Bangsa Bisa - Gojek as Data Analyst Student (https://www.anakbangsabisa.org/) 
 - 💬 Ask me about anything. 
 - 📫 How to reach me: Instagram / LinkedIn / Facebook 
 - ⚡ Fun fact: I was born in 1999 but my birth certificate says I was born in 2000. 
