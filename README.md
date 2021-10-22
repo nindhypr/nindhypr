@@ -1,6 +1,5 @@
 ### Hi there 👋, get to know more about me here.
 #### Fresh Graduate
-![Fresh Graduate](https://media-exp1.licdn.com/dms/image/C5616AQHYIw5HMuw--A/profile-displaybackgroundimage-shrink_200_800/0/1628348680195?e=1633564800&v=beta&t=Xin-UuXvqt5798f4RSEGMOWw0C9GcU44B74djMURa7c)
 
 I really like learning new things like learn about programming language (Python) and taking online courses to fill my spare time.
 
