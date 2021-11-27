@@ -1,11 +1,11 @@
 ### Hi there 👋, get to know more about me here.
-#### Fresh Graduate
+#### Funding Operations Officer
 
 I really like learning new things like learn about programming language (Python) and taking online courses to fill my spare time.
 
 Skills: Microsoft Office / Canva / IBM SPSS / Python / Google Suite
 
-- 🔭 I’m currently working on Kiddo.id as Sales Operation Intern (https://m.kiddo.id/) & Zeal Indonesia as Admin and Data Associate (https://zealindonesia.com/)
+- 🔭 I’m currently working on CROWDE as Funding Operations Officer (https://crowde.co/) & Zeal Indonesia as Admin and Data Associate (https://zealindonesia.com/)
 - 🌱 I was learning on Yayasan Anak Bangsa Bisa - Gojek as Data Analyst Student (https://www.anakbangsabisa.org/) 
 - 💬 Ask me about anything. 
 - 📫 How to reach me: Instagram / LinkedIn / Facebook 
