@@ -2,7 +2,7 @@
 #### Funding Operations Officer
 ![Funding Operations Officer](https://media-exp1.licdn.com/dms/image/C5616AQG5YMUvQ-VB0w/profile-displaybackgroundimage-shrink_350_1400/0/1645799569099?e=1661385600&v=beta&t=429Hyj06upAdSPdWJEwxpN9aJ83cd7HRU7uHDLLGzvk)
 
-I made these project to be able to learn more about coding & improve my skill to create some projects using Python.
+I made these projects to be able to learn more about coding & improve my skill to create some projects using Python.
 
 Skills: Python
 
